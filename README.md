@@ -16,4 +16,3 @@ Diogo Rafael Cunha Pereira
 > Metodologias de Desenvolvimento de Software @ 2020
 
 ![IPLeiria](ipleiria.png)
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$*Figura 3 - Ficheiro readme.md*
